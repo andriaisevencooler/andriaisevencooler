@@ -1,0 +1,8 @@
+- 👋 Hi, I’m **@andriaisevencooler**
+- 🌱 I’m currently learning **React (JavaScript)**
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me:
+-   🔵 - ***Discord:*** static034;
+-   🟣 - ***Codewars Profile:*** Link in my Bio;
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've been coding for 1 year.
